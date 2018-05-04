@@ -1,5 +1,5 @@
 <template>
-  <panel title="Bookmarks">
+  <panel title="test">
     <v-data-table
       :headers="headers"
       :pagination.sync="pagination"
