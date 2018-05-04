@@ -2,7 +2,7 @@
   <div id="app">
     <v-app>
       <page-header />
-      
+
       <main>
         <v-container fluid>
           <router-view></router-view>
@@ -36,4 +36,5 @@ export default {
 .danger-alert {
   color: red;
 }
+
 </style>
